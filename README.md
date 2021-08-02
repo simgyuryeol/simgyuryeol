@@ -1,6 +1,6 @@
 ## Hi
 
-[![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol&show_icons=true&theme= synthwave)](https://github.com/simgyuryeol/github-readme-stats)
+[![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol&show_icons=true&theme=synthwave)](https://github.com/simgyuryeol/github-readme-stats)
 
 
 
