@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
+![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **simgyuryeol/simgyuryeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
