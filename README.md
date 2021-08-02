@@ -1,4 +1,6 @@
-[![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol)](https://github.com/simgyuryeol/github-readme-stats)
+[![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol&show_icons=true&theme=radical)](https://github.com/simgyuryeol/github-readme-stats)
+
+
 
 <!--
 **simgyuryeol/simgyuryeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
