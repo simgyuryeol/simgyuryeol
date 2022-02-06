@@ -1,8 +1,8 @@
 <div> <h3>Hi there :raising_hand:</h3>
- Good day! I'm Gyu-ryeol Sim who wants to be a Back-end developer.  
+ <H5>Good day! I'm Gyu-ryeol Sim who wants to be a Back-end developer.  
   <br/>
   <br/>
-  If you want to contact me. please leave me a message!
+  If you want to contact me. please leave me a message!</H5>
   </div>
   
 ---
