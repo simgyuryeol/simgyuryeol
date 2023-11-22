@@ -8,13 +8,35 @@
 ---
   
 
-<div align=center>
-  <h3>:crystal_ball:Tech Stack:crystal_ball: </h3>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>
-</div> 
+# 💪Skills
+
+### Platforms & Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
+
+
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31?style=flat&logo=AmazonS3&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![AmazonRDS](https://img.shields.io/badge/AmazonRDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white)
+
+![docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
+![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?&style=flat&logo=intellijidea&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+
+
+
 
 [![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol&show_icons=true&theme=buefy)](https://github.com/simgyuryeol/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simgyuryeol&layout=compact&theme=buefy)](https://github.com/simgyuryeol)
