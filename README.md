@@ -1,4 +1,4 @@
-<div> <h3>Hi there :raising_hand:</h3>
+<div> <h2>Hi there :raising_hand:</h2>
  <H5>Good day! I'm Gyu-ryeol Sim who wants to be a Back-end developer.  
   <br/>
   <br/>
@@ -6,9 +6,10 @@
   </div>
   
 ---
+
   
 
-# 💪Skills
+## 💪Skills
 
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
