@@ -11,7 +11,7 @@
 
 ## 💪Skills
 
-### Platforms & Languages
+#### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
@@ -30,7 +30,7 @@
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 
-### Tools
+#### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?&style=flat&logo=intellijidea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white)
