@@ -43,6 +43,7 @@
 [![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol&show_icons=true&theme=buefy)](https://github.com/simgyuryeol/github-readme-stats) 
 
 
+</div>
 
 ---
 
@@ -56,7 +57,6 @@
 </div>
 
 
-</div>
     
 <!--
 **simgyuryeol/simgyuryeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
