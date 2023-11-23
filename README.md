@@ -1,3 +1,5 @@
+<div align="center">
+
 <div> <h2>Hi there :raising_hand:</h2>
  <H5>Good day! I'm Gyu-ryeol Sim who wants to be a Back-end developer.  
   <br/>
@@ -10,7 +12,7 @@
 
 ## 💪Skills
 
-<div align="center">
+
 
 #### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
@@ -40,7 +42,8 @@
 
 [![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol&show_icons=true&theme=buefy)](https://github.com/simgyuryeol/github-readme-stats) 
 
-</div>
+
+
 ---
 
 <br/>
@@ -52,6 +55,8 @@
   <a href="https://potent-stop-a1b.notion.site/GyuRyeol-Sim-6b67b4ddf2cf489bb36c78ebe04f7b8a"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Notion&logoColor=white&link=https://programmers.co.kr/pr/kcms2369_4704"style="height : auto; margin-left : 20px; margin-right : 20px;"/></a>
 </div>
 
+
+</div>
     
 <!--
 **simgyuryeol/simgyuryeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
