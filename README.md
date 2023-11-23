@@ -46,6 +46,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simgyuryeol&layout=compact&theme=buefy)](https://github.com/simgyuryeol)
 
 
+---
 <br/>
 
 <div> <h3>About me:grey_question:</h3>
