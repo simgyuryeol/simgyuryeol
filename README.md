@@ -46,10 +46,10 @@
 ---
 
 <div> <h3>About me:grey_question:</h3>
-  <a href="https://www.instagram.com/gyuryeolsim/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:wvxyz@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wvxyz@naver.com"style="height : auto; margin-left : 20px; margin-right : 20px;"/></a>
-  <a href="https://www.linkedin.com/in/%EA%B7%9C%EB%A0%AC-%EC%8B%AC-aa04b1209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://potent-stop-a1b.notion.site/GyuRyeol-Sim-6b67b4ddf2cf489bb36c78ebe04f7b8a"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://programmers.co.kr/pr/kcms2369_4704"style="height : auto; margin-left : 20px; margin-right : 20px;"/></a>
+  <a href="https://www.instagram.com/gyuryeolsim/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:wvxyz@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wvxyz@naver.com"style="height : auto; margin-left : 20px; margin-right : 20px;"/></a>
+  <a href="https://www.linkedin.com/in/%EA%B7%9C%EB%A0%AC-%EC%8B%AC-aa04b1209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flate&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://potent-stop-a1b.notion.site/GyuRyeol-Sim-6b67b4ddf2cf489bb36c78ebe04f7b8a"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Notion&logoColor=white&link=https://programmers.co.kr/pr/kcms2369_4704"style="height : auto; margin-left : 20px; margin-right : 20px;"/></a>
 </div>
 
     
