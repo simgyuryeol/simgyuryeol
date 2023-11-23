@@ -38,12 +38,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 
+[![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol&show_icons=true&theme=buefy)](https://github.com/simgyuryeol/github-readme-stats) 
+
 </div>
 
-
-
-[![Gyuryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgyuryeol&show_icons=true&theme=buefy)](https://github.com/simgyuryeol/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simgyuryeol&layout=compact&theme=buefy)](https://github.com/simgyuryeol)
 
 
 ---
