@@ -1,6 +1,6 @@
 <div align="center">
 
-<div> <h2>🖐 Hi there </h2>
+<div> <h2>🖐 Hi there! </h2>
  <H5>Good day! I'm Gyu-ryeol Sim who wants to be a Back-end developer.  
   <br/>
   <br/>
